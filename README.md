@@ -1,2 +1,2 @@
-#online simple chat system
+online simple chat system
 By Simran Kaur
